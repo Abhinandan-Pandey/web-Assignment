@@ -1,0 +1,13 @@
+.text {
+  margin-top: 10;
+  font-size: 20;
+}
+.redirectButton {
+  border: none;
+  outline: none;
+  color: blue;
+  font-size: 20;
+  background-color: transparent;
+  margin-left: 10;
+  border-bottom-style: double;
+}
